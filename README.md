@@ -6,7 +6,9 @@ Submitted by: **Samyak Mahavir Karnavat**
 
 Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project:
+
+https://glitch.com/edit/#!/fancy-holy-worm?path=README.md%3A1%3A0
 
 ## Required Functionality
 
